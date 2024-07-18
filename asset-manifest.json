@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wisol/static/css/main.bb083c3b.css",
-    "main.js": "/wisol/static/js/main.6672a92d.js",
+    "main.js": "/wisol/static/js/main.0f7afdef.js",
     "static/js/488.6d578c3b.chunk.js": "/wisol/static/js/488.6d578c3b.chunk.js",
     "static/media/Carousel1.jpg": "/wisol/static/media/Carousel1.1256ed197f586a0a05aa.jpg",
     "static/media/Carousel2.jpg": "/wisol/static/media/Carousel2.1ebf64db76a023365026.jpg",
@@ -13,11 +13,11 @@
     "static/media/mojito.jpg": "/wisol/static/media/mojito.3b8460d94ecaaeb4c3d0.jpg",
     "index.html": "/wisol/index.html",
     "main.bb083c3b.css.map": "/wisol/static/css/main.bb083c3b.css.map",
-    "main.6672a92d.js.map": "/wisol/static/js/main.6672a92d.js.map",
+    "main.0f7afdef.js.map": "/wisol/static/js/main.0f7afdef.js.map",
     "488.6d578c3b.chunk.js.map": "/wisol/static/js/488.6d578c3b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb083c3b.css",
-    "static/js/main.6672a92d.js"
+    "static/js/main.0f7afdef.js"
   ]
 }
